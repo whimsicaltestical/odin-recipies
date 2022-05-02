@@ -1,0 +1,32 @@
+html {
+      background-color: gold;
+      font-family: Geneva, "Time New Roman", serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background-color: skyblue;
+}
+
+h2 {
+    text-align: left;
+    font-size: 32px;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+    background-color: skyblue;
+}
+
+ol,
+ul {
+    background-color: skyblue;
+    font-size: 25px;
+}
+
+.image {
+    width: 500px;
+    height: auto;
+}
